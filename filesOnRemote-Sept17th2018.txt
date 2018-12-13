@@ -1,0 +1,229 @@
+
+[?25l\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K/ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K- Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K/ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K- Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K/ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K- Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K/ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K- Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K/ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K- Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K/ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K- Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K/ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K- Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K\ Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K| Executing command ls -al /data/1aaaaaaaaaaaaaaaaaa in nodejs devSpace
+[?25l[1000D[K[1A[1000D[K
+total 23732
+drwxr-xr-x    3 root     root         16384 Sep 17 13:21 .
+drwxr-xr-x    4 root     root          4096 Sep 17 13:16 ..
+drwxr-xr-x    8 root     root          4096 Sep 15 07:54 .git
+-rw-r--r--    1 root     root        257813 Sep 17 13:21 .syncthing.Ports deleted - Copy (4).PNG.tmp
+-rw-r--r--    1 root     root        103958 Sep 17 13:20 .syncthing.Repo-search - Copy.PNG.tmp
+-rw-r--r--    1 root     root         11999 Jun 21 17:41 BeforeKill.PNG
+-rw-r--r--    1 root     root         10792 Sep  5 16:43 CG V3 - Workflow.PNG
+-rw-r--r--    1 root     root         84736 Jul 24 14:20 CLI Command Sample - 1.PNG
+-rw-r--r--    1 root     root         92977 Jul 24 14:21 CLI Command Sample - 2.PNG
+-rw-r--r--    1 root     root         24777 Jul 17 16:51 CLI clarification.PNG
+-rw-r--r--    1 root     root         44311 Jun  3 20:55 CLI errors.PNG
+-rw-r--r--    1 root     root        102798 Jul  8 11:34 CLI-DS with no image.PNG
+-rw-r--r--    1 root     root         68765 Jul 24 10:38 CLI-start stop errors.PNG
+-rw-r--r--    1 root     root         18559 May 21 14:11 CLI.PNG
+-rw-r--r--    1 root     root        207255 Aug 30 18:20 Client Crash.txt
+-rw-r--r--    1 root     root        302767 Jul 17 15:33 DS Creation from Tempalte - error.PNG
+-rw-r--r--    1 root     root        354983 Aug 13 09:21 DS Creation from scratch - env 1.PNG
+-rw-r--r--    1 root     root        111740 Aug 27 09:03 DS Creation from scratch -.JPG
+-rw-r--r--    1 root     root        266103 Sep  7 19:13 DS-Proto-Filter for Status.PNG
+-rw-r--r--    1 root     root         85850 Aug 23 13:44 DS-arch.PNG
+-rw-r--r--    1 root     root         74047 Jun 23 18:08 DS-name-error.PNG
+-rw-r--r--    1 root     root         73552 Jul 27 06:44 DS-shared-duplicate name.PNG
+-rw-r--r--    1 root     root        118211 Jun 19 14:47 DSList.PNG
+-rw-r--r--    1 root     root        161132 Jun 13 16:16 DSName with dot - 400 error.PNG
+-rw-r--r--    1 root     root        351994 Jun 13 16:17 DSName with dot - 400 error2.PNG
+-rw-r--r--    1 root     root        116159 May  9 14:49 Delete issue.PNG
+-rw-r--r--    1 root     root        222805 Jun 21 19:07 DeviceID fix.PNG
+-rw-r--r--    1 root     root        125936 Jun 13 17:36 Devsapce stop.PNG
+-rw-r--r--    1 root     root         78057 Jun 13 08:50 Devspace - long name.PNG
+-rw-r--r--    1 root     root         64854 May 14 12:07 Devspaces - home - search - enter key is not working - Copy (2).PNG
+-rw-r--r--    1 root     root         64854 May 14 12:07 Devspaces - home - search - enter key is not working.PNG
+-rw-r--r--    1 root     root         85342 Jun 13 08:53 Edit - devsapce name - long.PNG
+-rw-r--r--    1 root     root        184870 May 23 07:24 Emails sent.PNG
+-rw-r--r--    1 root     root        278216 Jul 12 17:35 Existing Ports.PNG
+-rw-r--r--    1 root     root         89097 Jun  6 16:21 Filter issues.PNG
+-rw-r--r--    1 root     root        111886 Jul 17 07:10 GitRepoDetails.PNG
+-rw-r--r--    1 root     root         12671 Aug  6 14:35 Guru policy.PNG
+-rw-r--r--    1 root     root         62946 Jun  4 14:32 Last used Column.PNG
+-rw-r--r--    
+1 root     root         35289 May  8 05:20 MyAccount Error.PNG
+-rw-r--r--    1 root     root         51697 Jul 17 17:28 New User Error.PNG
+-rw-r--r--    1 root     root         63530 May 14 13:35 Patch error 2.PNG
+-rw-r--r--    1 root     root        294351 Jun  7 05:04 Poertno-error 400.PNG
+-rw-r--r--    1 root     root        257813 Jul 12 17:37 Ports deleted.PNG
+-rw-r--r--    1 root     root         75413 Sep 12 13:32 Prod-DS-Template-After gitrepo - Copy (2).PNG
+-rw-r--r--    1 root     root         75413 Sep 12 13:32 Prod-DS-Template-After gitrepo.PNG
+-rw-r--r--    1 root     root         54036 Aug 30 20:05 QA -  SQLIntegrityConstraintViolationException - 2.PNG
+-rw-r--r--    1 root     root        144317 Aug 30 20:00 QA -  SQLIntegrityConstraintViolationException.PNG
+-rw-r--r--    1 root     root        178623 Sep  7 19:51 QA - Admin - UM - filter - absent.PNG
+-rw-r--r--    1 root     root        301412 Sep  7 19:50 QA - Admin - UM - proto - filter - present.PNG
+-rw-r--r--    1 root     root         93032 Aug 30 18:25 QA - Client Crash.PNG
+-rw-r--r--    1 root     root        146339 Aug 31 08:00 QA - Client Install - new version.PNG
+-rw-r--r--    1 root     root        114012 Aug 17 10:06 QA - POST wksps- Name missing -error message needs to be modified - Copy (4).PNG
+-rw-r--r--    1 root     root        114012 Aug 17 10:06 QA - POST wksps- Name missing -error message needs to be modified.PNG
+-rw-r--r--    1 root     root        452825 Aug 30 19:00 QA - Running devspace validation - syncthing - worksapce - fodler removal.PNG
+-rw-r--r--    1 root     root        322154 Jul 18 08:59 QA - SyncThing restart - confirmation message - Copy.PNG
+-rw-r--r--    1 root     root        322154 Jul 18 08:59 QA - SyncThing restart - confirmation message.PNG
+-rw-r--r--    1 root     root        106824 Jul 30 11:16 QA - TOS - Declien - syncthing related error.PNG
+-rw-r--r--    1 root     root         62312 Sep  7 18:53 QA - UI - Admin - search - single chars.PNG
+-rw-r--r--    1 root     root        116892 Sep  4 18:34 QA - Valdiation - no env variable change.PNG
+-rw-r--r--    1 root     root        116903 Jul 30 10:19 QA - client uninstall.PNG
+-rw-r--r--    1 root     root         55691 Sep  4 19:08 QA - github_user_identity table - two IDs.PNG
+-rw-r--r--    1 root     root        154580 Jul 30 14:41 QA - layout issues - bootstrap issues.PNG
+-rw-r--r--    1 root     root        141290 Sep  2 17:42 QA - lease termination failure scenario.PNG
+-rw-r--r--    1 root     root        122068 Aug 30 19:23 QA - new and exisitng variable modification -  Running devspace validation - 504 error.PNG
+-rw-r--r--    1 root     root        110884 Aug 30 17:37 QA - syncthing issue.PNG
+-rw-r--r--    1 root     root        156234 Aug 21 10:14 QA - token expiry.PNG
+-rw-r--r--    1 root     root         77124 Jul 30 07:50 QA -Storage check.PNG
+-rw-r--r--    1 root     root         13168 Jul 30 07:46 QA -storage  - 6GB - Copy (3).PNG
+-rw-r--r--    1 root     root         13168 Jul 30 07:46 QA -storage  - 6GB.PNG
+-rw-r--r--    1 root     root         92028 Aug 29 17:07 QA Delete  lease - SPEC.JPG
+-rw-r--r--    1 root     root        128324 Aug 29 17:05 QA Delete  lease.JPG
+-rw-r--r--    1 root     root        157574 Aug 30 20:40 QA IndexOutOfBoundsException.PNG
+-rw-r--r--    1 root     root        161408 Aug 28 18:07 QA- 600 retries, attempting to rollback.JPG
+-rw-r--r--    1 root     root         77136 Aug  8 11:32 QA- docker image change.PNG
+-rw-r--r--    1 root     root         80908 Aug 15 13:18 QA-.PNG
+-rw-r--r--    1 root     root        158913 Sep  4 18:12 QA-Access-Control-Allow-Origin - 2.PNG
+-rw-r--r--    1 root     root        159041 Sep  4 18:08 QA-Access-Control-Allow-Origin.PNG
+-rw-r--r--    1 root     root        186634 Aug 22 10:00 QA-Admin-UM-search-browser console error.PNG
+-rw-r--r--    1 root     root        100196 Aug  3 16:13 QA-Alias.PNG
+-rw-r--r--    1 root     root         12227 Jul 30 07:48 QA-Basic plan storage.PNG
+-rw-r--r--    1 root     root         12037 Jul 19 08:57 QA-CLI-Help-inconsistency.PNG
+-rw-r--r--    1 root     root         59335 Jul 19 05:59 QA-CLI-devsapces ls.PNG
+-rw-r--r--    1 root     root        161832 Aug 17 11:40 QA-DELETE-WORKSPACES-500 Error.PNG
+-rw-r--r--    1 root     root         36814 Jul 27 07:03 QA-DS - shared devsapces with same name.PNG
+-rw-r--r--    1 root     root         78343 Jul 18 09:14 QA-DS Client Restart.PNG
+-rw-r--r--    1 root     root        139119 Sep  8 17:52 QA-DS Creation - from scratch - new port addition.PNG
+-rw-r--r--    1 root     root        106157 Aug 21 10:19 QA-DS Delete - log name.PNG
+-rw-r--r--    1 root     root        158924 Sep 10 17:20 QA-DS Share window tooltip.PNG
+-rw-r--r--    1 root     root        170666 Aug 22 08:03 QA-DS Validation - ViewEdit Config issue.PNG
+-rw-r--r--    1 root     root         81244 Sep  2 18:24 QA-DS validation - token expiry.PNG
+-rw-r--r--    1 root     root        129535 Sep 10 06:38 QA-DS-Tempalte-start.PNG
+-rw-r--r--    1 root     root         59288 Sep 12 13:34 QA-DS-Template - After gitRepo.PNG
+-rw-r--r--    1 root     root         72966 Sep  2 17:05 QA-Delete - running devspace - fatal error.PNG
+
+-rw-r--r--    1 root     root        678785 Aug  7 17:45 QA-Delete-statefulsets.PNG
+-rw-r--r--    1 root     root         66771 Jul 29 13:56 QA-Exec failure.PNG
+-rw-r--r--    1 root     root        114575 Jul 18 12:22 QA-File Pattern Sync - length validation missing.PNG
+-rw-r--r--    1 root     root        187422 Aug 30 17:19 QA-Graylog-IlleagalStateException.JPG
+-rw-r--r--    1 root     root        133080 Aug 30 17:21 QA-Graylog-IlleagalStateException.PNG
+-rw-r--r--    1 root     root        127863 Aug 22 11:28 QA-IllegalArgumentException Unknown name value.PNG
+-rw-r--r--    1 root     root         60809 Aug 21 10:50 QA-POST-worksapces - duplicate  name - 409 - error msg.PNG
+-rw-r--r--    1 root     root         97311 Aug 21 10:50 QA-POST-worksapces - duplicate  name - 409.png
+-rw-r--r--    1 root     root         65813 Aug 16 18:04 QA-PUT-PORT-WKSP-ID-String.PNG
+-rw-r--r--    1 root     root        188514 Aug 16 18:43 QA-Port - Description check.PNG
+-rw-r--r--    1 root     root         56694 Aug 16 17:32 QA-Port-PUT.PNG
+-rw-r--r--    1 root     root        739400 Aug 15 14:53 QA-Product-health page issue.PNG
+-rw-r--r--    1 root     root        171320 Aug 16 14:23 QA-Repo delete - viewconfig issue.PNG
+-rw-r--r--    1 root     root        171974 Aug 14 18:04 QA-Shared with - add notes issues.PNG
+-rw-r--r--    1 root     root         29682 Sep 10 17:25 QA-Sharewindow - long email id.PNG
+-rw-r--r--    1 root     root         25263 Sep 10 17:26 QA-Sharewindow - small email id - icon.PNG
+-rw-r--r--    1 root     root        416493 Jul 19 06:20 QA-UI DS Start - not updated.PNG
+-rw-r--r--    1 root     root        109747 Sep  4 18:07 QA-Valdiating - env variable - 2 other fields become editable.PNG
+-rw-r--r--    1 root     root         82740 Sep  4 18:02 QA-Valdiating - env variable.PNG
+-rw-r--r--    1 root     root        104264 Sep  7 17:23 QA-View Edit Config - updated name.png
+-rw-r--r--    1 root     root         89738 Aug  6 16:04 QA-admin-UM-Not Working.png
+-rw-r--r--    1 root     root        113856 Aug  6 16:04 QA-admin-UM-Working.PNG
+-rw-r--r--    1 root     root        300789 Aug 24 12:42 QA-api Get repos - page and limit - invalid value check.PNG
+-rw-r--r--    1 root     root         13140 Jul 30 07:46 QA-basic - user plan.PNG
+-rw-r--r--    1 root     root         72200 Sep  2 18:11 QA-centos-perl-520-centos7 - 504 error.PNG
+-rw-r--r--    1 root     root         20924 Jul 29 13:43 QA-exec - failure.PNG
+-rw-r--r--    1 root     root         50108 Aug 16 11:43 QA-get repo - invalid value type - Copy.PNG
+-rw-r--r--    1 root     root         50108 Aug 16 11:43 QA-get repo - invalid value type.PNG
+-rw-r--r--    1 root     root         97004 Jul 18 12:21 QA-ignore patterns empty value save error .PNG
+-rw-r--r--    1 root     root        179072 Aug  8 11:31 QA-instance validation status.PNG
+-rw-r--r--    1 root     root        113028 Jul 30 14:36 QA-layout issue.PNG
+-rw-r--r--    1 root     root         42622 Aug 21 08:00 QA-nonExisting-workspace.PNG
+-rw-r--r--    1 root     root        806390 Jul 30 15:36 QA-notifications.PNG
+-rw-r--r--    1 root     root        159623 Aug 17 15:30 QA-port issue.PNG
+-rw-r--r--    1 root     root         69667 Jul 27 16:40 QA-shared with - image.PNG
+-rw-r--r--    1 root     root        132190 Aug 15 16:40 QA-storage threshold.PNG
+-rw-r--r--    1 root     root         25578 Jul 27 17:22 QA-syncthing log.PNG
+-rw-r--r--    1 root     root         52951 Jun 21 17:53 QA_June21st2018 - Copy (3).PNG
+-rw-r--r--    1 root     root         52951 Jun 21 17:53 QA_June21st2018.PNG
+-rw-r--r--    1 root     root         91927 Aug 22 10:26 QA_UI-Loading-console error.PNG
+-rw-r--r--    1 root     root        122442 Aug 22 10:46 QA_UI-ViewEdit Config - Save - additional invitation calls - Copy (4).PNG
+-rw-r--r--    1 root     root        122442 Aug 22 10:46 QA_UI-ViewEdit Config - Save - additional invitation calls.PNG
+-rw-r--r--    1 root     root            21 Sep 15 07:54 README.md
+-rw-r--r--    1 root     root        112903 Sep  7 20:40 Repo list - Filter window sticky.PNG
+-rw-r--r--    1 root     root        127121 Sep  7 20:51
+ Repo list - pages - accepts char e - and error 400 returned in the devtools.PNG
+-rw-r--r--    1 root     root        103958 Jun  7 10:58 Repo-search.PNG
+-rw-r--r--    1 root     root        231912 Jul 18 08:45 RestartSyncThing.PNG
+-rw-r--r--    1 root     root         12465 May 22 16:54 Share Devspace.PNG
+-rw-r--r--    1 root     root        109898 Jul  4 06:40 Shareerror2.PNG
+-rw-r--r--    1 root     root        113312 Jul  6 13:37 allow impersonation.PNG
+-rw-r--r--    1 root     root        131264 Jul  6 13:38 cancel impersonation.PNG
+-rw-r--r--    1 root     root         98688 May 18 17:04 devspace deletion error.PNG
+-rw-r--r--    1 root     root        180975 Aug 27 07:15 devspace doesn't exit errors -2.JPG
+-rw-r--r--    1 root     root        180462 Aug 27 07:15 devspace doesn't exit errors.JPG
+-rw-r--r--    1 root     root         39353 Jun 12 18:20 devspace info.PNG
+-rw-r--r--    1 root     root        172327 Jun 13 16:15 devspace name with dor.PNG
+-rw-r--r--    1 root     root         67907 May 17 18:45 devspaces with identical names.PNG
+-rw-r--r--    1 root     root          4979 May 23 15:08 devspaces-CLI-OP.txt.txt
+-rw-r--r--    1 root     root         44372 May  7 10:11 devspacesstop-html code.PNG
+-rw-r--r--    1 root     root         60462 Jun 12 12:58 dockerimage.PNG
+-rw-r--r--    1 root     root         43864 Jun 12 12:58 dockerimage1.PNG
+-rw-r--r--    1 root     root          2774 Jun  5 16:01 ds-notification.PNG
+-rw-r--r--    1 root     root         17080 May 14 11:20 email id empty.PNG
+-rw-r--r--    1 root     root         56718 May 14 11:20 email-500.PNG
+-rw-r--r--    1 root     root        124491 Jun 14 19:05 empty list-2.PNG
+-rw-r--r--    1 root     root         55373 Jun 14 19:05 empty list.PNG
+-rw-r--r--    1 root     root         49383 May  7 10:11 error - Copy (4).PNG
+-rw-r--r--    1 root     root         49383 May  7 10:11 error.PNG
+-rw-r--r--    1 root     root        109822 Jul  8 09:10 exactreportSearchMatch.PNG
+-rw-r--r--    1 root     root        164842 Jul 12 17:32 excludes patterns - not shown.PNG
+-rw-r--r--    1 root     root        329434 Jun  6 17:14 git-first repo- tool tip hidden - Copy (2).PNG
+-rw-r--r--    1 root     root        329434 Jun  6 17:14 git-first repo- tool tip hidden.PNG
+-rw-r--r--    1 root     root         66093 Jun  6 17:47 html code.PNG
+-rw-r--r--    1 root     root        165847 Jun  6 18:02 htmlcode and cli issues.PNG
+-rw-r--r--    1 root     root         93194 Jul 30 16:09 identity calls.PNG
+-rw-r--r--    1 root     root         66692 Jul 12 17:36 ignore patterns save.PNG
+-rw-r--r--    1 root     root         49929 Jun 26 15:58 invalid fields.PNG
+-rw-r--r--    1 root     root        509718 Jun  7 07:01 invitations - email.PNG
+-rw-r--r--    1 root     root        224462 Jul 11 15:26 invitations-LastUsed.PNG
+-rw-r--r--    1 root     root        183755 May 23 08:48 link and button label.PNG
+-rw-r--r--    1 root     root         41281 Jun 12 18:05 long description.PNG
+-rw-r--r--    1 root     root         46521 Jul  5 11:20 me.PNG
+-rw-r--r--    1 root     root         14784 Jul  5 11:22 me2.PNG
+-rw-r--r--    1 root     root        177179 Jun 18 08:52 multiple devspaces from template - start-stop - fix.PNG
+-rw-r--r--    1 root     root         74047 Jun 23 17:56 name - issue.PNG
+-rw-r--r--    1 root     root         67996 May 14 13:37 patch error3.PNG
+-rw-r--r--    1 root     root         76721 May 14 13:39 patch error4.PNG
+-rw-r--r--    1 root     root         67185 May 14 13:34 patch-error.PNG
+-rw-r--r--    1 root     root        360708 Jun  7 04:56 port descirption.PNG
+-rw-r--r--    1 root     root        269687 Jun  7 05:25 portnumber -error 500.PNG
+-rw-r--r--    1 root     root         37108 Jun 12 18:19 ports.PNG
+-rw-r--r--    1 root     root         65064 Aug  1 17:09 prod-subscription-plan.PNG
+-rw-r--r--    1 root     root          6168 May 11 07:22 repoList.xlsx
+-rw-r--r--    1 root     root         43556 Jul  4 06:40 share error.PNG
+-rw-r--r--    1 root     root         76548 Jun  8 15:30 shared image.PNG
+-rw-r--r--    1 root     root         83454 Jun 18 06:32 shared validation error.PNG
+-rw-r--r--    1 root     root         83181 Jul 26 09:29 spring-boot issue - Copy (2).PNG
+-rw-r--r--    1 root     root         83181 Jul 26 09:29 spring-boot issue.PNG
+
+[?25h
