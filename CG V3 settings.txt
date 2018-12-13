@@ -1,0 +1,25 @@
+PARAMETER_PATH=<PATH TO SOUCE CODE ROO>/codegraph-layer-runner/src/test/resources/parameters.properties
+CONFIGURATION_PATH=<PATH TO SOUCE CODE ROO>/codegraph-layer-runner/src/test/resources/configuration.json
+OGM_PATH=<PATH TO SOUCE CODE ROO>/codegraph-layer-runner/src/test/resources/ogm.properties
+LOG_PATH=<SOME PATH HERE>
+LAYER_CODE_ENTRY_POINT=com.devfactory.codegraph.v3.builder.layer.sdk.demo.layercode.DummyLayerCodeEntryPoint
+LAYER_CODE_URL=s3://codegraphv3-neo4j-dumps-dev/m5_cap6/devfactory-dummy-layer.jar
+AWS_SECRET_ACCESS_KEY=<ASK DEV FOR THIS>
+AWS_ACCESS_KEY_ID=<ASK DEV FOR THIS>
+
+
+/codegraph-layer-runner/src/test/resources/parameters.properties
+
+/codegraph-layer-runner/src/test/resources/configuration.json
+
+/codegraph-layer-runner/src/test/resources/ogm.properties
+
+com.devfactory.codegraph.v3.builder.layer.sdk.demo.layercode.DummyLayerCodeEntryPoint
+
+//codegraphv3-neo4j-dumps-dev/m5_cap6/devfactory-dummy-layer.jar
+
+[11:31 PM]
+
+AWS_SECRET_ACCESS_KEY=mrVg7N72VISu7O8c7kZFlHJue2O7YYkRjLwIXqeJ
+
+AWS_ACCESS_KEY_ID=AKIAI36CNQ76NXFWNJKQ
