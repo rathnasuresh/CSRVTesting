@@ -1,12 +1,1 @@
-DVSP-10941 - Cap 2.1 - Create fails when private image configuration file is missing
-DVSP-10944 - Cap 2.2 - Create fails when private image configuration file has invalid name
-DVSP-10947 - Cap 2.3 - Create fails when the docker file name is changed in devspaces.yml
-DVSP-10950 - Cap 2.4 - Create fails when the docker file is moved to src directory
-DVSP-10953 - Cap 2.5 - Create fails when the name is removed in devspaces.yml file
-DVSP-10956 - Cap 2.6 - Create fails when the devspaces.yml file is corrupted
-DVSP-10959 - Cap 2.7 - While doing create, Docker image build fails when the FROM clause is commented in Dockerfile			
-DVSP-10962 - Cap 2.8 - Check the build failure reasons in AWS after create is tried with out FROM in docker file.
-DVSP-10965 - Cap 2.9 - Verify the AWS CodeBuild resources created after build failure during create operation
-DVSP-10968 - Cap 2.10 - During creation operation, Build fails when WORKDIR src is renamed with invalid name - WORKDIR src_invalid
-
-DVSP-10971 - Cap 2.11 - During creation operation, Build fails when WORKDIR src is renamed to WORKDIR_INVALID src
+clkvjcvlbk;jcxvlb;kxcvl;kbcxhbvlk;
